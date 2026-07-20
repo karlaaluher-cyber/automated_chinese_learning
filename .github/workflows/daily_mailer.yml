@@ -1,0 +1,37 @@
+name: HSK Daily Mailer
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC = 08:00 Chile (UTC-3, horario de verano)
+  workflow_dispatch:        # te permite correrlo a mano desde la pestaña Actions, para probar
+
+jobs:
+  send-mailer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run HSK mailer
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python HSKmailer.py
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add hsk_words.csv
+          git diff --staged --quiet || git commit -m "Update vocabulary exposure [skip ci]"
+          git push
