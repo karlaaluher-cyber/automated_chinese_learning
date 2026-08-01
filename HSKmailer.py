@@ -18,7 +18,8 @@ load_dotenv()
 
 
 
-client = os.getenv("client")
+client_key = os.getenv("client_key")
+client = genai.Client(api_key=client_key)
 sender_email = os.getenv("sender_email")
 receiver_email = os.getenv("receiver_email")
 password = os.getenv("password")
