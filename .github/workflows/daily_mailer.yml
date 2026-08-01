@@ -22,7 +22,7 @@ jobs:
 
       - name: Run HSK mailer
         env:
-          CLIENT_KEY: ${{ secrets.client_key }}
+          CLIENT_KEY: ${{ secrets.CLIENT_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
