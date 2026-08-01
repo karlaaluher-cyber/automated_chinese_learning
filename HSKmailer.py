@@ -17,10 +17,7 @@ load_dotenv()
 
 
 client_key = os.getenv("client_key")
-print(f"DEBUG largo de client_key: {len(client_key) if client_key else 0}")
 client = genai.Client(api_key = client_key)
-
-
 sender_email = os.getenv("sender_email")
 receiver_email = os.getenv("receiver_email")
 password = os.getenv("password")
@@ -149,7 +146,7 @@ def hsk_mailer():
     #Attempt asking Gemini three times
     for attempt in range(3):
         try:
-            response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
+            response = client.models.generate_content(model="gemini-3.6-flash", contents=prompt)
             print(response.text)
             break
         except Exception as e:
