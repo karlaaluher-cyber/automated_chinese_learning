@@ -22,10 +22,10 @@ jobs:
 
       - name: Run HSK mailer
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CLIENT_KEY: ${{ secrets.client_key }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          PASSWORD: ${{ secrets.PASSWORD }}
         run: python HSKmailer.py
 
       - name: Commit updated CSV
