@@ -3,7 +3,6 @@ from io import StringIO
 
 import pandas as pd
 import google.genai as genai
-import schedule as sch
 import time
 import smtplib
 import markdown
@@ -179,11 +178,5 @@ def hsk_mailer():
     #Save changes in the csv file
     df.to_csv("hsk_words.csv",index=False)
     return print("Done")
-
-
-#sch.every().day.at("07:30").do(hsk_mailer())
-#while True:
-#  sch.run_pending()
-# time.sleep(90)
 
 
