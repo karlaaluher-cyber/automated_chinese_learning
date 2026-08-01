@@ -178,4 +178,5 @@ def hsk_mailer():
     df.to_csv("hsk_words.csv",index=False)
     return print("Done")
 
-
+if __name__ == "__main__":
+    hsk_mailer()
