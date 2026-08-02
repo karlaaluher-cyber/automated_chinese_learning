@@ -10,15 +10,17 @@ Un correo diario automatizado con oraciones en chino generadas por IA, calibrada
 
 ## Vista previa
 
-<!-- TODO: pega aquí un screenshot del email generado, ej: ![Preview del correo](docs/email-preview.png) -->
+<img width="392" height="872" alt="1000021660" src="https://github.com/user-attachments/assets/1ea19f05-441b-4e3d-a604-f7eedb83e5c7" />
+<img width="392" height="872" alt="0" src="https://github.com/user-attachments/assets/2680c4bb-7548-4d72-870d-816563b1bb11" />
+
 
 ## ¿Por qué comprehensible input?
 
-La teoría de *comprehensible input* (input comprensible), popularizada por el lingüista Stephen Krashen, dice algo bastante intuitivo una vez que lo piensas: aprendemos un idioma exponiéndonos a contenido que entendemos *casi* completo, con solo un poco de material nuevo mezclado adentro. Ni tan fácil que sea aburrido, ni tan difícil que sea indescifrable.
+La teoría de *comprehensible input* (input comprensible), popularizada por el lingüista Stephen Krashen, propone que aprendemos un idioma exponiéndonos a contenido que entendemos *casi* completo, con solo un poco de material nuevo mezclado adentro. Ni tan fácil que sea aburrido, ni tan difícil que sea indescifrable.
 
 En la práctica, eso significa que la forma más eficiente de aprender no es memorizar listas de vocabulario aisladas, sino leer o escuchar historias donde la mayoría de las palabras ya las conoces, y las pocas que no conoces las puedes deducir por contexto.
 
-Este proyecto automatiza exactamente eso: cada mañana genera 5 oraciones en chino donde ~65% del vocabulario ya me es familiar, ~25% lo he visto antes pero no domino, y solo ~10% es completamente nuevo — ambientadas en el género de novelas de cultivación (xianxia), que es lo que realmente leo por gusto, no ejemplos genéricos de libro de texto.
+Este proyecto automatiza ese entorno de aprendizaje: cada mañana genera 5 oraciones en chino donde ~65% del vocabulario ya me es familiar, ~25% lo he visto antes pero no domino, y solo ~10% es completamente nuevo — ambientadas en el género de novelas de cultivación (xianxia), que es lo que realmente leo por gusto, no ejemplos genéricos de libro de texto.
 
 ## Features
 
@@ -36,15 +38,15 @@ Este proyecto automatiza exactamente eso: cada mañana genera 5 oraciones en chi
 ```mermaid
 flowchart TD
     A[GitHub Actions — cron diario 11:00 UTC] --> B[Checkout del repo]
-    B --> C[Setup Python + instalar dependencias]
-    C --> D[Correr HSKmailer.py]
-    D --> E[Cargar hsk_words.csv]
-    E --> F[Separar vocabulario: conocido / familiar / nuevo]
-    F --> G[Armar prompt y llamar a Gemini API]
+    B --> C[Setup Python + instalación dependencias]
+    C --> D[Corre HSKmailer.py]
+    D --> E[Carga hsk_words.csv]
+    E --> F[Separa vocabulario: conocido / familiar / nuevo]
+    F --> G[Arma el prompt y llama a Gemini API]
     G --> H[5 oraciones + tabla de vocabulario nuevo]
-    H --> I[Formatear email HTML]
-    I --> J[Enviar por Gmail SMTP]
-    H --> K[Actualizar personal_interaction en el CSV]
+    H --> I[Formatea email HTML]
+    I --> J[Envia por Gmail SMTP]
+    H --> K[Actualiza personal_interaction en el CSV]
     K --> L[Commit y push del CSV actualizado al repo]
 ```
 
@@ -68,7 +70,7 @@ flowchart TD
    receiver_email=
    password=
    ```
-   `password` es un [App Password de Gmail](https://myaccount.google.com/apppasswords), no tu contraseña normal de cuenta.
+   `password` es un [App Password de Gmail](https://myaccount.google.com/apppasswords), no la contraseña normal de cuenta.
 
 4. Corre el script:
    ```bash
@@ -87,6 +89,7 @@ El dataset de vocabulario HSK (`hsk_words.csv`) proviene de [willfliaw/hsk-datas
 
 ## Aprendizajes
 
-Este fue mi primer proyecto llevando código desde "corre en mi compu" hasta un pipeline automatizado en la nube, y el camino tuvo más curvas de las que esperaba: variables de entorno que distinguen mayúsculas de minúsculas de forma silenciosa, permisos de escritura que GitHub restringe por defecto, y un modelo de IA que se deprecó a mitad de camino. Nada de eso salió en el tutorial que leí para empezar — salió depurando logs línea por línea hasta encontrar el mensaje exacto que explicaba qué estaba pasando.
+Este proyecto fue extremadamente interesante de construir, en algunos aspectos mucho más simple de lo que creí que sería y en otros mucho más complejo. Esta fue mi primera vez utilizando Github y Python en un proyecto personal, y muchos de mis tropiezos tuvieron relación con descubrir herramientas que no conocía (como descubrir que el código se podía ejecutar desde  Github, pero no tener idea de cómo gestionar mis credenciales para que no quedaran públicas), no obstante, al final valió la pena seguir adelante para construir mi propia herramienta de aprendizaje de idiomas.
 
-<!-- TODO: personaliza este párrafo con tu propia reflexión -->
+Creo que, para cualquiera que necesite inyectar la práctica diaria mínima para el aprendizaje de idiomas en un día ocupado, adaptar esta herramienta a sus necesidades puede al menos ayudarlos a mantener el paso con el reto que son los idiomas extranjeros.
+
