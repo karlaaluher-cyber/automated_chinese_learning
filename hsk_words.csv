@@ -606,10 +606,10 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,按照,an zhao,àn zhào,an4 zhao4,according to,介,https://api.wohuimandarin.com/nls/tts?text=%E6%8C%89%E7%85%A7,0.0
 4,百分之,bai fen zhi,bǎi fēn zhī,bai3 fen1 zhi1,percent,,https://api.wohuimandarin.com/nls/tts?text=%E7%99%BE%E5%88%86%E4%B9%8B,0.0
 4,棒,bang,bàng,bang4,stick; staff; excellent,形,https://api.wohuimandarin.com/nls/tts?text=b%C3%A0ng,0.0
-4,包子,bao zi,bāo zi,bao1 zi5,bao zi [steamed stuffed bun],名,https://api.wohuimandarin.com/nls/tts?text=%E5%8C%85%E5%AD%90,0.0
+4,包子,bao zi,bāo zi,bao1 zi5,bao zi [steamed stuffed bun],名,https://api.wohuimandarin.com/nls/tts?text=%E5%8C%85%E5%AD%90,1.0
 4,保护,bao hu,bǎo hù,bao3 hu4,protection; to protect,动,https://api.wohuimandarin.com/nls/tts?text=%E4%BF%9D%E6%8A%A4,5.0
 4,保证,bao zheng,bǎo zhèng,bao3 zheng4,guarantee,动,https://api.wohuimandarin.com/nls/tts?text=%E4%BF%9D%E8%AF%81,1.0
-4,抱,bao,bào,bao4,to hold,动,https://api.wohuimandarin.com/nls/tts?text=b%C3%A0o,3.0
+4,抱,bao,bào,bao4,to hold,动,https://api.wohuimandarin.com/nls/tts?text=b%C3%A0o,4.0
 4,报名,bao ming,bào míng,bao4 ming2,sign up,动,https://api.wohuimandarin.com/nls/tts?text=%E6%8A%A5%E5%90%8D,0.0
 4,抱歉,bao qian,bào qiàn,bao4 qian4,apologise,形,https://api.wohuimandarin.com/nls/tts?text=%E6%8A%B1%E6%AD%89,1.0
 4,倍,bei,bèi,bei4,times; double; twice as much,量,https://api.wohuimandarin.com/nls/tts?text=b%C3%A8i,0.0
@@ -713,7 +713,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,方式,fang shi,fāng shì,fang1 shi4,way; fashion; pattern,名,https://api.wohuimandarin.com/nls/tts?text=%E6%96%B9%E5%BC%8F,0.0
 4,方向,fang xiang,fāng xiàng,fang1 xiang4,direction,名,https://api.wohuimandarin.com/nls/tts?text=%E6%96%B9%E5%90%91,0.0
 4,房东,fang dong,fáng dōng,fang2 dong1,landlord/landlady,名,https://api.wohuimandarin.com/nls/tts?text=%E6%88%BF%E4%B8%9C,0.0
-4,放弃,fang qi,fàng qì,fang4 qi4,to renounce,动,https://api.wohuimandarin.com/nls/tts?text=%E6%94%BE%E5%BC%83,2.0
+4,放弃,fang qi,fàng qì,fang4 qi4,to renounce,动,https://api.wohuimandarin.com/nls/tts?text=%E6%94%BE%E5%BC%83,3.0
 4,放暑假,fang shu jia,fàng shǔ jià,fang4 shu3 jia4,to be on summer vacation,,https://api.wohuimandarin.com/nls/tts?text=%E6%94%BE%E6%9A%91%E5%81%87,0.0
 4,放松,fang song,fàng sōng,fang4 song1,to relax; slacken; loosen,动,https://api.wohuimandarin.com/nls/tts?text=%E6%94%BE%E6%9D%BE,0.0
 4,份,fen,fèn,fen4,portion,量,https://api.wohuimandarin.com/nls/tts?text=f%C3%A8n,0.0
@@ -774,7 +774,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,合适,he shi,hé shì,he2 shi4,suitable,形,https://api.wohuimandarin.com/nls/tts?text=%E5%90%88%E9%80%82,2.0
 4,盒子,he zi,hé zi,he2 zi5,small box,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9B%92%E5%AD%90,0.0
 4,厚,hou,hòu,hou4,thick,形,https://api.wohuimandarin.com/nls/tts?text=h%C3%B2u,0.0
-4,后悔,hou hui,hòu huǐ,hou4 hui3,to regret,动,https://api.wohuimandarin.com/nls/tts?text=%E5%90%8E%E6%82%94,3.0
+4,后悔,hou hui,hòu huǐ,hou4 hui3,to regret,动,https://api.wohuimandarin.com/nls/tts?text=%E5%90%8E%E6%82%94,4.0
 4,互联网,hu lian wang,hù lián wǎng,hu4 lian2 wang3,Internet,名,https://api.wohuimandarin.com/nls/tts?text=%E4%BA%92%E8%81%94%E7%BD%91,0.0
 4,护士,hu shi,hù shi,hu4 shi5,nurse,名,https://api.wohuimandarin.com/nls/tts?text=%E6%8A%A4%E5%A3%AB,0.0
 4,互相,hu xiang,hù xiāng,hu4 xiang1,each other,副,https://api.wohuimandarin.com/nls/tts?text=%E4%BA%92%E7%9B%B8,0.0
@@ -844,7 +844,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,聚会,ju hui,jù huì,ju4 hui4,get together; meet; gathering,名,https://api.wohuimandarin.com/nls/tts?text=%E8%81%9A%E4%BC%9A,0.0
 4,拒绝,ju jue,jù jué,ju4 jue2,to refuse,动,https://api.wohuimandarin.com/nls/tts?text=%E6%8B%92%E7%BB%9D,2.0
 4,距离,ju li,jù lí,ju4 li2,distance; be away from,名,https://api.wohuimandarin.com/nls/tts?text=%E8%B7%9D%E7%A6%BB,0.0
-4,开玩笑,kai wan xiao,kāi wán xiào,kai1 wan2 xiao4,joke,,https://api.wohuimandarin.com/nls/tts?text=%E5%BC%80%E7%8E%A9%E7%AC%91,0.0
+4,开玩笑,kai wan xiao,kāi wán xiào,kai1 wan2 xiao4,joke,,https://api.wohuimandarin.com/nls/tts?text=%E5%BC%80%E7%8E%A9%E7%AC%91,1.0
 4,开心,kai xin,kāi xīn,kai1 xin1,pleased; happy,形,https://api.wohuimandarin.com/nls/tts?text=%E5%BC%80%E5%BF%83,0.0
 4,看法,kan fa,kàn fǎ,kan4 fa3,opinion,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9C%8B%E6%B3%95,0.0
 4,考虑,kao lv,kǎo lǜ,kao3 lv4,consider,动,https://api.wohuimandarin.com/nls/tts?text=%E8%80%83%E8%99%91,1.0
@@ -852,7 +852,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,棵,ke,kē,ke1,"individual [measure word for trees, cabbages, plants etc]",量,https://api.wohuimandarin.com/nls/tts?text=k%C4%93,0.0
 4,科学,ke xue,kē xué,ke1 xue2,science,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A7%91%E5%AD%A6,0.0
 4,咳嗽,ke sou,ké sou,ke2 sou5,cough,动,https://api.wohuimandarin.com/nls/tts?text=%E5%92%B3%E5%97%BD,0.0
-4,可怜,ke lian,kě lián,ke3 lian2,pitiful; to have pity on,形,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%AF%E6%80%9C,1.0
+4,可怜,ke lian,kě lián,ke3 lian2,pitiful; to have pity on,形,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%AF%E6%80%9C,2.0
 4,可是,ke shi,kě shì,ke3 shi4,but,连,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%AF%E6%98%AF,1.0
 4,可惜,ke xi,kě xī,ke3 xi1,it's a pity,形,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%AF%E6%83%9C,1.0
 4,客厅,ke ting,kè tīng,ke4 ting1,living room,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%A2%E5%8E%85,0.0
@@ -910,7 +910,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,母亲,mu qin,mǔ qīn,mu3 qin1,mother,名,https://api.wohuimandarin.com/nls/tts?text=%E6%AF%8D%E4%BA%B2,0.0
 4,目的,mu di,mù dì,mu4 di4,objective; purpose,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9B%AE%E7%9A%84,0.0
 4,耐心,nai xin,nài xīn,nai4 xin1,patient,形,https://api.wohuimandarin.com/nls/tts?text=%E8%80%90%E5%BF%83,0.0
-4,难道,nan dao,nán dào,nan2 dao4,could it be...?,副,https://api.wohuimandarin.com/nls/tts?text=%E9%9A%BE%E9%81%93,2.0
+4,难道,nan dao,nán dào,nan2 dao4,could it be...?,副,https://api.wohuimandarin.com/nls/tts?text=%E9%9A%BE%E9%81%93,3.0
 4,难受,nan shou,nán shòu,nan2 shou4,feel unwell; difficult to bear,形,https://api.wohuimandarin.com/nls/tts?text=%E9%9A%BE%E5%8F%97,0.0
 4,内,nei,nèi,nei4,within,名,https://api.wohuimandarin.com/nls/tts?text=n%C3%A8i,0.0
 4,内容,nei rong,nèi róng,nei4 rong2,content,名,https://api.wohuimandarin.com/nls/tts?text=%E5%86%85%E5%AE%B9,0.0
@@ -1452,7 +1452,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,发表,fa biao,fā biǎo,fa1 biao3,to issue; to publish; report,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E8%A1%A8,0.0
 5,发愁,fa chou,fā chóu,fa1 chou2,to worry; to be anxious; sullen,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E6%84%81,0.0
 5,发达,fa da,fā dá,fa1 da2,developed; advanced; prosperous,形,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E8%BE%BE,0.0
-5,发抖,fa dou,fā dǒu,fa1 dou3,to shiver; shake; tremble,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E6%8A%96,2.0
+5,发抖,fa dou,fā dǒu,fa1 dou3,to shiver; shake; tremble,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E6%8A%96,3.0
 5,发挥,fa hui,fā huī,fa1 hui1,bring into play; give free rein to,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E6%8C%A5,0.0
 5,发明,fa ming,fā míng,fa1 ming2,invent; expound,名/动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E6%98%8E,0.0
 5,发票,fa piao,fā piào,fa1 piao4,bill; receipt,名,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E7%A5%A8,0.0
@@ -1725,7 +1725,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,救,jiu,jiù,jiu4,to rescue; save,动,https://api.wohuimandarin.com/nls/tts?text=ji%C3%B9,5.0
 5,救护车,jiu hu che,jiù hù chē,jiu4 hu4 che1,ambulance,名,https://api.wohuimandarin.com/nls/tts?text=%E6%95%91%E6%8A%A4%E8%BD%A6,0.0
 5,舅舅,jiu jiu,jiù jiu,jiu4 jiu5,uncle [mother's brother],名,https://api.wohuimandarin.com/nls/tts?text=%E8%88%85%E8%88%85,0.0
-5,居然,ju ran,jū rán,ju1 ran2,unexpectedly; to one's surprise,副,https://api.wohuimandarin.com/nls/tts?text=%E5%B1%85%E7%84%B6,2.0
+5,居然,ju ran,jū rán,ju1 ran2,unexpectedly; to one's surprise,副,https://api.wohuimandarin.com/nls/tts?text=%E5%B1%85%E7%84%B6,3.0
 5,桔子,ju zi,jú zi,ju2 zi5,tangerine,名,https://api.wohuimandarin.com/nls/tts?text=%E6%A1%94%E5%AD%90,0.0
 5,具备,ju bei,jù bèi,ju4 bei4,possess; have; be provided with,动,https://api.wohuimandarin.com/nls/tts?text=%E5%85%B7%E5%A4%87,0.0
 5,巨大,ju da,jù dà,ju4 da4,huge; enormous; gigantic,形,https://api.wohuimandarin.com/nls/tts?text=%E5%B7%A8%E5%A4%A7,0.0
@@ -1940,7 +1940,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,强调,qiang diao,qiáng diào,qiang2 diao4,stress; emphasize; underline,动,https://api.wohuimandarin.com/nls/tts?text=%E5%BC%BA%E8%B0%83,0.0
 5,强烈,qiang lie,qiáng liè,qiang2 lie4,strong; intense; violent,形,https://api.wohuimandarin.com/nls/tts?text=%E5%BC%BA%E7%83%88,1.0
 5,抢,qiang,qiǎng,qiang3,knock; grab; rob,动,https://api.wohuimandarin.com/nls/tts?text=qi%C7%8Eng,0.0
-5,悄悄,qiao qiao,qiāo qiāo,qiao1 qiao1,quietly; whisper; on the quiet,副,https://api.wohuimandarin.com/nls/tts?text=%E6%82%84%E6%82%84,0.0
+5,悄悄,qiao qiao,qiāo qiāo,qiao1 qiao1,quietly; whisper; on the quiet,副,https://api.wohuimandarin.com/nls/tts?text=%E6%82%84%E6%82%84,1.0
 5,瞧,qiao,qiáo,qiao2,look; see,动,https://api.wohuimandarin.com/nls/tts?text=qi%C3%A1o,0.0
 5,巧妙,qiao miao,qiǎo miào,qiao3 miao4,ingenious; clever,形,https://api.wohuimandarin.com/nls/tts?text=%E5%B7%A7%E5%A6%99,0.0
 5,切,qie,qiē,qie1,cut; slice,动,https://api.wohuimandarin.com/nls/tts?text=qi%C4%93,0.0
@@ -2281,7 +2281,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,学历,xue li,xué lì,xue2 li4,record of formal schooling; educational background,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AD%A6%E5%8E%86,0.0
 5,学术,xue shu,xué shù,xue2 shu4,learning; science,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AD%A6%E6%9C%AF,0.0
 5,学问,xue wen,xué wèn,xue2 wen4,learning; knowledge; scholarship,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AD%A6%E9%97%AE,0.0
-5,血,xue,xuè,xue4,blood,名,https://api.wohuimandarin.com/nls/tts?text=xu%C3%A8,4.0
+5,血,xue,xuè,xue4,blood,名,https://api.wohuimandarin.com/nls/tts?text=xu%C3%A8,5.0
 5,询问,xun wen,xún wèn,xun2 wen4,ask about; enquire,动,https://api.wohuimandarin.com/nls/tts?text=%E8%AF%A2%E9%97%AE,0.0
 5,寻找,xun zhao,xún zhǎo,xun2 zhao3,seek; look for; search,动,https://api.wohuimandarin.com/nls/tts?text=%E5%AF%BB%E6%89%BE,0.0
 5,训练,xun lian,xùn liàn,xun4 lian4,train; drill,动,https://api.wohuimandarin.com/nls/tts?text=%E8%AE%AD%E7%BB%83,0.0
@@ -2450,7 +2450,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,主张,zhu zhang,zhǔ zhāng,zhu3 zhang1,claim; assertionl; proposal,动,https://api.wohuimandarin.com/nls/tts?text=%E4%B8%BB%E5%BC%A0,0.0
 5,注册,zhu ce,zhù cè,zhu4 ce4,register,动,https://api.wohuimandarin.com/nls/tts?text=%E6%B3%A8%E5%86%8C,0.0
 5,祝福,zhu fu,zhù fú,zhu4 fu2,blessing; benediction; wish happiness to,动,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9D%E7%A6%8F,0.0
-5,抓,zhua,zhuā,zhua1,to grab,动,https://api.wohuimandarin.com/nls/tts?text=zhu%C4%81,0.0
+5,抓,zhua,zhuā,zhua1,to grab,动,https://api.wohuimandarin.com/nls/tts?text=zhu%C4%81,1.0
 5,抓紧,zhua jin,zhuā jǐn,zhua1 jin3,firmly grasp; pay close attention to,动,https://api.wohuimandarin.com/nls/tts?text=%E6%8A%93%E7%B4%A7,0.0
 5,专家,zhuan jia,zhuān jiā,zhuan1 jia1,specialist; expert,名,https://api.wohuimandarin.com/nls/tts?text=%E4%B8%93%E5%AE%B6,0.0
 5,专心,zhuan xin,zhuān xīn,zhuan1 xin1,engrossed; concentrating,形,https://api.wohuimandarin.com/nls/tts?text=%E4%B8%93%E5%BF%83,0.0
@@ -3210,7 +3210,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,惯例,guan li,guàn lì,guan4 li4,convention; usual practice; custom,名,https://api.wohuimandarin.com/nls/tts?text=%E6%83%AF%E4%BE%8B,0.0
 6,光彩,guang cai,guāng cǎi,guang1 cai3,lustre; splendour; radiance,名/形,https://api.wohuimandarin.com/nls/tts?text=%E5%85%89%E5%BD%A9,0.0
 6,光辉,guang hui,guāng huī,guang1 hui1,brilliance; glory; radiance,形,https://api.wohuimandarin.com/nls/tts?text=%E5%85%89%E8%BE%89,0.0
-6,光芒,guang mang,guāng máng,guang1 mang2,rays of light,名,https://api.wohuimandarin.com/nls/tts?text=%E5%85%89%E8%8A%92,3.0
+6,光芒,guang mang,guāng máng,guang1 mang2,rays of light,名,https://api.wohuimandarin.com/nls/tts?text=%E5%85%89%E8%8A%92,4.0
 6,光荣,guang rong,guāng róng,guang1 rong2,honour; glory; credit,形,https://api.wohuimandarin.com/nls/tts?text=%E5%85%89%E8%8D%A3,0.0
 6,广阔,guang kuo,guǎng kuò,guang3 kuo4,vast; spacious; expansive,形,https://api.wohuimandarin.com/nls/tts?text=%E5%B9%BF%E9%98%94,1.0
 6,规范,gui fan,guī fàn,gui1 fan4,standard; norm; specification,形,https://api.wohuimandarin.com/nls/tts?text=%E8%A7%84%E8%8C%83,0.0
@@ -3331,7 +3331,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,活该,huo gai,huó gāi,huo2 gai1,deservedly,动,https://api.wohuimandarin.com/nls/tts?text=%E6%B4%BB%E8%AF%A5,0.0
 6,活力,huo li,huó lì,huo2 li4,vigour; vitality,名,https://api.wohuimandarin.com/nls/tts?text=%E6%B4%BB%E5%8A%9B,0.0
 6,火箭,huo jian,huǒ jiàn,huo3 jian4,rocket; fire arrow,名,https://api.wohuimandarin.com/nls/tts?text=%E7%81%AB%E7%AE%AD,0.0
-6,火焰,huo yan,huǒ yàn,huo3 yan4,flame; blaze,名,https://api.wohuimandarin.com/nls/tts?text=%E7%81%AB%E7%84%B0,3.0
+6,火焰,huo yan,huǒ yàn,huo3 yan4,flame; blaze,名,https://api.wohuimandarin.com/nls/tts?text=%E7%81%AB%E7%84%B0,4.0
 6,火药,huo yao,huǒ yào,huo3 yao4,gunpowder,名,https://api.wohuimandarin.com/nls/tts?text=%E7%81%AB%E8%8D%AF,0.0
 6,货币,huo bi,huò bì,huo4 bi4,money; currency,名,https://api.wohuimandarin.com/nls/tts?text=%E8%B4%A7%E5%B8%81,0.0
 6,倔强,e jiang,jué jiàng,e2 jiang4,unbending,形,https://api.wohuimandarin.com/nls/tts?text=%E5%80%94%E5%BC%BA,0.0
