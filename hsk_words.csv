@@ -703,7 +703,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 4,而,er,ér,er2,and; while,连,https://api.wohuimandarin.com/nls/tts?text=%C3%A9r,0.0
 4,儿童,er tong,ér tóng,er2 tong2,child; children,名,https://api.wohuimandarin.com/nls/tts?text=%E5%84%BF%E7%AB%A5,0.0
 4,发生,fa sheng,fā shēng,fa1 sheng1,happen,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E7%94%9F,5.0
-4,发展,fa zhan,fā zhǎn,fa1 zhan3,develop,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E5%B1%95,0.0
+4,发展,fa zhan,fā zhǎn,fa1 zhan3,develop,动,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%91%E5%B1%95,1.0
 4,法律,fa lv,fǎ lǜ,fa3 lv4,law,名,https://api.wohuimandarin.com/nls/tts?text=%E6%B3%95%E5%BE%8B,0.0
 4,翻译,fan yi,fān yì,fan1 yi4,to translate,名/动,https://api.wohuimandarin.com/nls/tts?text=%E7%BF%BB%E8%AF%91,0.0
 4,烦恼,fan nao,fán nǎo,fan2 nao3,to be worried,形,https://api.wohuimandarin.com/nls/tts?text=%E7%83%A6%E6%81%BC,1.0
@@ -1238,7 +1238,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,彼此,bi ci,bǐ cǐ,bi3 ci3,each other; both parties; one another,代,https://api.wohuimandarin.com/nls/tts?text=%E5%BD%BC%E6%AD%A4,0.0
 5,比例,bi li,bǐ lì,bi3 li4,scale; proportion; ratio,名,https://api.wohuimandarin.com/nls/tts?text=%E6%AF%94%E4%BE%8B,0.0
 5,毕竟,bi jing,bì jìng,bi4 jing4,after all; all in all; when all is said and done,副,https://api.wohuimandarin.com/nls/tts?text=%E6%AF%95%E7%AB%9F,0.0
-5,避免,bi mian,bì miǎn,bi4 mian3,to avoid; refrain from; prevent something from happening,动,https://api.wohuimandarin.com/nls/tts?text=%E9%81%BF%E5%85%8D,0.0
+5,避免,bi mian,bì miǎn,bi4 mian3,to avoid; refrain from; prevent something from happening,动,https://api.wohuimandarin.com/nls/tts?text=%E9%81%BF%E5%85%8D,1.0
 5,必然,bi ran,bì rán,bi4 ran2,inevitable; certain; necessarily,形,https://api.wohuimandarin.com/nls/tts?text=%E5%BF%85%E7%84%B6,0.0
 5,必要,bi yao,bì yào,bi4 yao4,requisite; necessary; essential,形,https://api.wohuimandarin.com/nls/tts?text=%E5%BF%85%E8%A6%81,0.0
 5,编辑,bian ji,biān jí,bian1 ji2,edit; compile,名/动,https://api.wohuimandarin.com/nls/tts?text=%E7%BC%96%E8%BE%91,0.0
@@ -1652,7 +1652,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,寂寞,ji mo,jì mò,ji4 mo4,lonely; lonesome,形,https://api.wohuimandarin.com/nls/tts?text=%E5%AF%82%E5%AF%9E,0.0
 5,纪念,ji nian,jì niàn,ji4 nian4,commemorate,动,https://api.wohuimandarin.com/nls/tts?text=%E7%BA%AA%E5%BF%B5,0.0
 5,计算,ji suan,jì suàn,ji4 suan4,count; compute; calculate,动,https://api.wohuimandarin.com/nls/tts?text=%E8%AE%A1%E7%AE%97,0.0
-5,记忆,ji yi,jì yì,ji4 yi4,recall; memory; storage,名,https://api.wohuimandarin.com/nls/tts?text=%E8%AE%B0%E5%BF%86,0.0
+5,记忆,ji yi,jì yì,ji4 yi4,recall; memory; storage,名,https://api.wohuimandarin.com/nls/tts?text=%E8%AE%B0%E5%BF%86,1.0
 5,嘉宾,jia bin,jiā bīn,jia1 bin1,honoured guest,名,https://api.wohuimandarin.com/nls/tts?text=%E5%98%89%E5%AE%BE,0.0
 5,家庭,jia ting,jiā tíng,jia1 ting2,family; household,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%B6%E5%BA%AD,0.0
 5,家务,jia wu,jiā wù,jia1 wu4,house work,名,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%B6%E5%8A%A1,0.0
@@ -1706,7 +1706,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,戒,jie,jiè,jie4,to give up or stop doing something,动,https://api.wohuimandarin.com/nls/tts?text=ji%C3%A8,0.0
 5,届,jie,jiè,jie4,"fall due; [measure word for meetings, events, etc.]",量,https://api.wohuimandarin.com/nls/tts?text=ji%C3%A8,0.0
 5,借口,jie kou,jiè kǒu,jie4 kou3,use as an excuse; on the pretext of,名,https://api.wohuimandarin.com/nls/tts?text=%E5%80%9F%E5%8F%A3,0.0
-5,戒指,jie zhi,jiè zhi,jie4 zhi5,ring [jewellry],名,https://api.wohuimandarin.com/nls/tts?text=%E6%88%92%E6%8C%87,0.0
+5,戒指,jie zhi,jiè zhi,jie4 zhi5,ring [jewellry],名,https://api.wohuimandarin.com/nls/tts?text=%E6%88%92%E6%8C%87,1.0
 5,金属,jin shu,jīn shǔ,jin1 shu3,metal,名,https://api.wohuimandarin.com/nls/tts?text=%E9%87%91%E5%B1%9E,0.0
 5,紧急,jin ji,jǐn jí,jin3 ji2,urgent; pressing,形,https://api.wohuimandarin.com/nls/tts?text=%E7%B4%A7%E6%80%A5,0.0
 5,尽快,jin kuai,jǐn kuài,jin3 kuai4,as quickly  as possible,副,https://api.wohuimandarin.com/nls/tts?text=%E5%B0%BD%E5%BF%AB,0.0
@@ -1716,7 +1716,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,进口,jin kou,jìn kǒu,jin4 kou3,import; entrance; sail into a port,动,https://api.wohuimandarin.com/nls/tts?text=%E8%BF%9B%E5%8F%A3,0.0
 5,尽力,jin li,jìn lì,jin4 li4,to do all one can; try one's best,动,https://api.wohuimandarin.com/nls/tts?text=%E5%B0%BD%E5%8A%9B,0.0
 5,尽量,jin liang,jìn liàng,jin4 liang4,to the best of one's ability; as far as possible,副,https://api.wohuimandarin.com/nls/tts?text=%E5%B0%BD%E9%87%8F,0.0
-5,经典,jing dian,jīng diǎn,jing1 dian3,classics,形,https://api.wohuimandarin.com/nls/tts?text=%E7%BB%8F%E5%85%B8,0.0
+5,经典,jing dian,jīng diǎn,jing1 dian3,classics,形,https://api.wohuimandarin.com/nls/tts?text=%E7%BB%8F%E5%85%B8,1.0
 5,精力,jing li,jīng lì,jing1 li4,energy; vigour; vim,名,https://api.wohuimandarin.com/nls/tts?text=%E7%B2%BE%E5%8A%9B,0.0
 5,经商,jing shang,jīng shāng,jing1 shang1,engage in trade; be in business,动,https://api.wohuimandarin.com/nls/tts?text=%E7%BB%8F%E5%95%86,0.0
 5,精神,jing shen,jīng shén,jing1 shen2,essence; spirit,名,https://api.wohuimandarin.com/nls/tts?text=%E7%B2%BE%E7%A5%9E,0.0
@@ -1814,7 +1814,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,流传,liu chuan,liú chuán,liu2 chuan2,spread; circulate; hand down,动,https://api.wohuimandarin.com/nls/tts?text=%E6%B5%81%E4%BC%A0,0.0
 5,浏览,liu lan,liú lǎn,liu2 lan3,glance over; skim through; browse,动,https://api.wohuimandarin.com/nls/tts?text=%E6%B5%8F%E8%A7%88,0.0
 5,流泪,liu lei,liú lèi,liu2 lei4,to shed tears,动,https://api.wohuimandarin.com/nls/tts?text=%E6%B5%81%E6%B3%AA,0.0
-5,龙,long,lóng,long2,dragon,名,https://api.wohuimandarin.com/nls/tts?text=l%C3%B3ng,0.0
+5,龙,long,lóng,long2,dragon,名,https://api.wohuimandarin.com/nls/tts?text=l%C3%B3ng,1.0
 5,漏,lou,lòu,lou4,to leak; divulge; disclose,动,https://api.wohuimandarin.com/nls/tts?text=l%C3%B2u,0.0
 5,陆地,lu di,lù dì,lu4 di4,dry land; terrace,名,https://api.wohuimandarin.com/nls/tts?text=%E9%99%86%E5%9C%B0,0.0
 5,录取,lu qu,lù qǔ,lu4 qu3,enroll; recruit; admit to,动,https://api.wohuimandarin.com/nls/tts?text=%E5%BD%95%E5%8F%96,0.0
@@ -2006,7 +2006,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,傻,sha,shǎ,sha3,stupid; muddleheaded; silly,形,https://api.wohuimandarin.com/nls/tts?text=sh%C7%8E,0.0
 5,晒,shai,shài,shai4,shine upon; dry in the sun; bask,动,https://api.wohuimandarin.com/nls/tts?text=sh%C3%A0i,0.0
 5,删除,shan chu,shān chú,shan1 chu2,to delete; strike out; cut out,动,https://api.wohuimandarin.com/nls/tts?text=%E5%88%A0%E9%99%A4,0.0
-5,闪电,shan dian,shǎn diàn,shan3 dian4,lightning,名,https://api.wohuimandarin.com/nls/tts?text=%E9%97%AA%E7%94%B5,0.0
+5,闪电,shan dian,shǎn diàn,shan3 dian4,lightning,名,https://api.wohuimandarin.com/nls/tts?text=%E9%97%AA%E7%94%B5,1.0
 5,善良,shan liang,shàn liáng,shan4 liang2,good and honest; kindhearted,形,https://api.wohuimandarin.com/nls/tts?text=%E5%96%84%E8%89%AF,0.0
 5,善于,shan yu,shàn yú,shan4 yu2,be good at; be adept in,动,https://api.wohuimandarin.com/nls/tts?text=%E5%96%84%E4%BA%8E,0.0
 5,扇子,shan zi,shàn zi,shan4 zi5,fan,名,https://api.wohuimandarin.com/nls/tts?text=%E6%89%87%E5%AD%90,0.0
@@ -2025,7 +2025,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,伸,shen,shēn,shen1,stretch; extend,动,https://api.wohuimandarin.com/nls/tts?text=sh%C4%93n,0.0
 5,身材,shen cai,shēn cái,shen1 cai2,stature; figure,名,https://api.wohuimandarin.com/nls/tts?text=%E8%BA%AB%E6%9D%90,0.0
 5,身份,shen fen,shēn fèn,shen1 fen4,identity,名,https://api.wohuimandarin.com/nls/tts?text=%E8%BA%AB%E4%BB%BD,0.0
-5,深刻,shen ke,shēn kè,shen1 ke4,deep; profound,形,https://api.wohuimandarin.com/nls/tts?text=%E6%B7%B1%E5%88%BB,0.0
+5,深刻,shen ke,shēn kè,shen1 ke4,deep; profound,形,https://api.wohuimandarin.com/nls/tts?text=%E6%B7%B1%E5%88%BB,1.0
 5,神话,shen hua,shén huà,shen2 hua4,myth; fairy tale,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E8%AF%9D,0.0
 5,神秘,shen mi,shén mì,shen2 mi4,mysterious; mystical,动,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E7%A7%98,5.0
 5,升,sheng,shēng,sheng1,litre; to promote; to rise,动,https://api.wohuimandarin.com/nls/tts?text=sh%C4%93ng,0.0
@@ -2330,7 +2330,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 5,迎接,ying jie,yíng jiē,ying2 jie1,welcome; greet; reception,动,https://api.wohuimandarin.com/nls/tts?text=%E8%BF%8E%E6%8E%A5,0.0
 5,营养,ying yang,yíng yǎng,ying2 yang3,nutrition; nourishment,名,https://api.wohuimandarin.com/nls/tts?text=%E8%90%A5%E5%85%BB,0.0
 5,营业,ying ye,yíng yè,ying2 ye4,do business,动,https://api.wohuimandarin.com/nls/tts?text=%E8%90%A5%E4%B8%9A,0.0
-5,影子,ying zi,yǐng zi,ying3 zi5,shadow; reflection; trace,名,https://api.wohuimandarin.com/nls/tts?text=%E5%BD%B1%E5%AD%90,0.0
+5,影子,ying zi,yǐng zi,ying3 zi5,shadow; reflection; trace,名,https://api.wohuimandarin.com/nls/tts?text=%E5%BD%B1%E5%AD%90,1.0
 5,硬,ying,yìng,ying4,hard,形,https://api.wohuimandarin.com/nls/tts?text=y%C3%ACng,0.0
 5,应付,ying fu,yìng fu,ying4 fu5,deal with; cope with; handle,动,https://api.wohuimandarin.com/nls/tts?text=%E5%BA%94%E4%BB%98,0.0
 5,硬件,ying jian,yìng jiàn,ying4 jian4,hardware,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A1%AC%E4%BB%B6,0.0
@@ -3305,7 +3305,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,荒凉,huang liang,huāng liáng,huang1 liang2,bleak and desolate; wild,形,https://api.wohuimandarin.com/nls/tts?text=%E8%8D%92%E5%87%89,0.0
 6,荒谬,huang miu,huāng miù,huang1 miu4,absurd; preposterous,形,https://api.wohuimandarin.com/nls/tts?text=%E8%8D%92%E8%B0%AC,0.0
 6,荒唐,huang tang,huāng táng,huang1 tang2,absurd; fantastic; preposterous,形,https://api.wohuimandarin.com/nls/tts?text=%E8%8D%92%E5%94%90,0.0
-6,皇帝,huang di,huáng dì,huang2 di4,emperor,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9A%87%E5%B8%9D,0.0
+6,皇帝,huang di,huáng dì,huang2 di4,emperor,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9A%87%E5%B8%9D,1.0
 6,皇后,huang hou,huáng hòu,huang2 hou4,empress,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9A%87%E5%90%8E,0.0
 6,黄昏,huang hun,huáng hūn,huang2 hun1,dusk,名,https://api.wohuimandarin.com/nls/tts?text=%E9%BB%84%E6%98%8F,0.0
 6,恍然大悟,huang ran da wu,huǎng rán dà wù,huang3 ran2 da4 wu4,be suddenly enlightened,,https://api.wohuimandarin.com/nls/tts?text=%E6%81%8D%E7%84%B6%E5%A4%A7%E6%82%9F,0.0
@@ -3588,7 +3588,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,口头,kou tou,kǒu tóu,kou3 tou2,oral; verbal; in speech,形,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%A3%E5%A4%B4,0.0
 6,口音,kou yin,kǒu yīn,kou3 yin1,voice,名,https://api.wohuimandarin.com/nls/tts?text=%E5%8F%A3%E9%9F%B3,0.0
 6,扣,kou,kòu,kou4,to deduct (money),动,https://api.wohuimandarin.com/nls/tts?text=k%C3%B2u,0.0
-6,哭泣,ku qi,kū qì,ku1 qi4,to weep,动,https://api.wohuimandarin.com/nls/tts?text=%E5%93%AD%E6%B3%A3,0.0
+6,哭泣,ku qi,kū qì,ku1 qi4,to weep,动,https://api.wohuimandarin.com/nls/tts?text=%E5%93%AD%E6%B3%A3,1.0
 6,枯萎,ku wei,kū wěi,ku1 wei3,to wilt,形,https://api.wohuimandarin.com/nls/tts?text=%E6%9E%AF%E8%90%8E,0.0
 6,枯燥,ku zao,kū zào,ku1 zao4,dull and dry; uninteresting; monotonous,形,https://api.wohuimandarin.com/nls/tts?text=%E6%9E%AF%E7%87%A5,0.0
 6,苦尽甘来,ku jin gan lai,kǔ jìn gān lái,ku3 jin4 gan1 lai2,all sufferings have their reward; after the bitter comes the sweet,,https://api.wohuimandarin.com/nls/tts?text=%E8%8B%A6%E5%B0%BD%E7%94%98%E6%9D%A5,0.0
@@ -4097,7 +4097,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,神气,shen qi,shén qì,shen2 qi4,expression; air; manner,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E6%B0%94,0.0
 6,神圣,shen sheng,shén shèng,shen2 sheng4,sacred; holy,形,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E5%9C%A3,0.0
 6,神态,shen tai,shén tài,shen2 tai4,expression; manner; bearing,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E6%80%81,0.0
-6,神仙,shen xian,shén xiān,shen2 xian1,supernatural being; immortal,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E4%BB%99,0.0
+6,神仙,shen xian,shén xiān,shen2 xian1,supernatural being; immortal,名,https://api.wohuimandarin.com/nls/tts?text=%E7%A5%9E%E4%BB%99,1.0
 6,审查,shen cha,shěn chá,shen3 cha2,examine; investigate; check,动,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%A1%E6%9F%A5,0.0
 6,审理,shen li,shěn lǐ,shen3 li3,try; hear [in court],动,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%A1%E7%90%86,0.0
 6,审美,shen mei,shěn měi,shen3 mei3,appreciation of beauty,动,https://api.wohuimandarin.com/nls/tts?text=%E5%AE%A1%E7%BE%8E,0.0
@@ -4415,7 +4415,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,舞蹈,wu dao,wǔ dǎo,wu3 dao3,dance,名,https://api.wohuimandarin.com/nls/tts?text=%E8%88%9E%E8%B9%88,0.0
 6,武器,wu qi,wǔ qì,wu3 qi4,weapon; arms,名,https://api.wohuimandarin.com/nls/tts?text=%E6%AD%A6%E5%99%A8,5.0
 6,侮辱,wu ru,wǔ rǔ,wu3 ru3,insult; humiliate,动,https://api.wohuimandarin.com/nls/tts?text=%E4%BE%AE%E8%BE%B1,0.0
-6,武侠,wu xia,wǔ xiá,wu3 xia2,person adept in martial arts who performs chivalrous deeds,名,https://api.wohuimandarin.com/nls/tts?text=%E6%AD%A6%E4%BE%A0,0.0
+6,武侠,wu xia,wǔ xiá,wu3 xia2,person adept in martial arts who performs chivalrous deeds,名,https://api.wohuimandarin.com/nls/tts?text=%E6%AD%A6%E4%BE%A0,1.0
 6,武装,wu zhuang,wǔ zhuāng,wu3 zhuang1,arms; military equipment; armed forces,动,https://api.wohuimandarin.com/nls/tts?text=%E6%AD%A6%E8%A3%85,0.0
 6,务必,wu bi,wù bì,wu4 bi4,must; be sure to,副,https://api.wohuimandarin.com/nls/tts?text=%E5%8A%A1%E5%BF%85,0.0
 6,误差,wu cha,wù chā,wu4 cha1,error,名,https://api.wohuimandarin.com/nls/tts?text=%E8%AF%AF%E5%B7%AE,0.0
@@ -4800,7 +4800,7 @@ level,hanzi,pinyin,pinyin_tone,pinyin_num,english,pos,tts_url,personal_interacti
 6,珍稀,zhen xi,zhēn xī,zhen1 xi1,precious; valuable and rare,形,https://api.wohuimandarin.com/nls/tts?text=%E7%8F%8D%E7%A8%80,0.0
 6,真相,zhen xiang,zhēn xiàng,zhen1 xiang4,truth; the actual state of affairs,名,https://api.wohuimandarin.com/nls/tts?text=%E7%9C%9F%E7%9B%B8,0.0
 6,真挚,zhen zhi,zhēn zhì,zhen1 zhi4,sincere; genuine; cordial,形,https://api.wohuimandarin.com/nls/tts?text=%E7%9C%9F%E6%8C%9A,0.0
-6,珍珠,zhen zhu,zhēn zhū,zhen1 zhu1,pearl,名,https://api.wohuimandarin.com/nls/tts?text=%E7%8F%8D%E7%8F%A0,0.0
+6,珍珠,zhen zhu,zhēn zhū,zhen1 zhu1,pearl,名,https://api.wohuimandarin.com/nls/tts?text=%E7%8F%8D%E7%8F%A0,1.0
 6,斟酌,zhen zhuo,zhēn zhuó,zhen1 zhuo2,consider; deliberate; think over,动,https://api.wohuimandarin.com/nls/tts?text=%E6%96%9F%E9%85%8C,0.0
 6,枕头,zhen tou,zhěn tou,zhen3 tou5,pillow,名,https://api.wohuimandarin.com/nls/tts?text=%E6%9E%95%E5%A4%B4,0.0
 6,阵地,zhen di,zhèn dì,zhen4 di4,battle field; front,名,https://api.wohuimandarin.com/nls/tts?text=%E9%98%B5%E5%9C%B0,0.0
